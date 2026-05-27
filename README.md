@@ -1,0 +1,1 @@
+For hosting FFXIV arena images
